@@ -20,6 +20,6 @@ public interface INonSelectable
 }
 
 /// <summary>
-/// Selectable types to identify their IDragSelectables.
+/// Selectable types to identify their ISelectables.
 /// </summary>
 public enum SelectableType{ Box, Cylinder };
